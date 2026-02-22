@@ -1,0 +1,459 @@
+[
+  {
+    "id": "1",
+    "tribe": "Reuben",
+    "month": "Month 1",
+    "title": "Stability in God's Call",
+    "text": "I stand firm in the purpose God has given me. Though I may feel unsteady, He upholds me with His righteous right hand. I will not be tossed by every wind of circumstance; I fix my eyes on Jesus, the author and perfecter of my faith. Each day I reaffirm my calling, trusting that He who began a good work in me will carry it to completion. I am rooted and grounded in His love.",
+    "audioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/1reuben/1reubens_blessing.mp3",
+    "maleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/1reuben/1male.mp3",
+    "maleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/1reuben/1male.json",
+    "femaleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/1reuben/1female.mp3",
+    "femaleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/1reuben/1female.json",
+    "inspiration": {
+      "scriptures": [
+        {
+          "ref": "Genesis 49:3-4 (KJV)",
+          "text": "Reuben, thou art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power: Unstable as water, thou shalt not excel; because thou wentest up to thy father's bed; then defiledst thou it: he went up to my couch."
+        },
+        {
+          "ref": "Isaiah 41:10 (KJV)",
+          "text": "Fear thou not; for I am with thee: be not dismayed; for I am thy God: I will strengthen thee; yea, I will help thee; yea, I will uphold thee with the right hand of my righteousness."
+        },
+        {
+          "ref": "Hebrews 12:2 (KJV)",
+          "text": "Looking unto Jesus the author and finisher of our faith; who for the joy that was set before him endured the cross, despising the shame, and is set down at the right hand of the throne of God."
+        },
+        {
+          "ref": "Philippians 1:6 (KJV)",
+          "text": "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:"
+        },
+        {
+          "ref": "Ephesians 3:17 (KJV)",
+          "text": "That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,"
+        }
+      ],
+      "videos": [
+        { "title": "Morning Calm", "url": "https://example.com/video/1" }
+      ],
+      "songs": [
+        { "title": "First Light", "url": "https://example.com/song/1", "artist": "Tribe Truth" }
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "tribe": "Simeon",
+    "month": "Month 2",
+    "title": "Healing from Anger",
+    "text": "I release bitterness and anger into God's hands. I will not let the sun go down on my wrath, but I choose forgiveness as Christ forgave me. With gentle words I speak truth in love, and I pray for those who wrong me. My heart is guarded by peace that surpasses understanding. Today I walk in reconciliation.",
+    "audioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/2simeon/2simeons_blessing.mp3",
+    "maleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/2simeon/2male.mp3",
+    "maleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/2simeon/2male.json",
+    "femaleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/2simeon/2female.mp3",
+    "femaleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/2simeon/2female.json",
+    "inspiration": {
+      "scriptures": [
+        {
+          "ref": "Genesis 49:5-7 (KJV)",
+          "text": "Simeon and Levi are brethren; instruments of cruelty are in their habitations. O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall. Cursed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel."
+        },
+        {
+          "ref": "James 1:20 (KJV)",
+          "text": "For the wrath of man worketh not the righteousness of God."
+        },
+        {
+          "ref": "Proverbs 16:32 (KJV)",
+          "text": "He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city."
+        },
+        {
+          "ref": "Psalm 37:8 (KJV)",
+          "text": "Cease from anger, and forsake wrath: fret not thyself in any wise to do evil."
+        }
+      ],
+      "videos": [
+        { "title": "Rain Song", "url": "https://example.com/video/2" }
+      ],
+      "songs": [
+        { "title": "Soft Rains", "url": "https://example.com/song/2" }
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "tribe": "Levi",
+    "month": "Month 3",
+    "title": "A Life of Service",
+    "text": "I offer myself as a living sacrifice, holy and pleasing to God. I serve others as unto the Lord, with humility and without expecting reward. Whether in small tasks or great, I do everything in the name of Jesus. My life is set apart for His purposes, and I carry His presence wherever I go.",
+    "audioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/3levi/3levis_blessing.mp3",
+    "maleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/3levi/3male.mp3",
+    "maleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/3levi/3male.json",
+    "femaleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/3levi/3female.mp3",
+    "femaleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/3levi/3female.json",
+    "inspiration": {
+      "scriptures": [
+        {
+          "ref": "Genesis 49:5-7 (KJV)",
+          "text": "Simeon and Levi are brethren; instruments of cruelty are in their habitations. O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall. Cursed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel."
+        },
+        {
+          "ref": "Deuteronomy 33:8-10 (KJV)",
+          "text": "And of Levi he said, Let thy Thummim and thy Urim be with thy holy one, whom thou didst prove at Massah, and with whom thou didst strive at the waters of Meribah; Who said unto his father and to his mother, I have not seen him; neither did he acknowledge his brethren, nor knew his own children: for they have observed thy word, and kept thy covenant. They shall teach Jacob thy judgments, and Israel thy law: they shall put incense before thee, and whole burnt sacrifice upon thine altar."
+        },
+        {
+          "ref": "Malachi 2:6-7 (KJV)",
+          "text": "The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace and equity, and did turn many away from iniquity. For the priest's lips should keep knowledge, and they should seek the law at his mouth: for he is the messenger of the Lord of hosts."
+        },
+        {
+          "ref": "1 Peter 2:9 (KJV)",
+          "text": "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light:"
+        }
+      ],
+      "videos": [
+        { "title": "Planting Hope", "url": "https://example.com/video/3" }
+      ],
+      "songs": [
+        { "title": "Seed of Peace", "url": "https://example.com/song/3" }
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "tribe": "Judah",
+    "month": "Month 4",
+    "title": "The Power of Praise",
+    "text": "I will bless the Lord at all times; His praise will continually be in my mouth. In every season I lift my voice in gratitude, for the joy of the Lord is my strength. I declare His goodness even when I cannot see the outcome. Praise shifts my perspective and invites His presence.",
+    "audioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/4judah/4judahs_blessing.mp3",
+    "maleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/4judah/4male.mp3",
+    "maleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/4judah/4male.json",
+    "femaleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/4judah/4female.mp3",
+    "femaleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/4judah/4female.json",
+    "inspiration": {
+      "scriptures": [
+        {
+          "ref": "Genesis 49:8-12 (KJV)",
+          "text": "Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father's children shall bow down before thee. Judah is a lion's whelp: from the prey, my son, thou art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up? The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be. Binding his foal unto the vine, and his ass's colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes: His eyes shall be red with wine, and his teeth white with milk."
+        },
+        {
+          "ref": "Psalm 22:3 (KJV)",
+          "text": "But thou art holy, O thou that inhabitest the praises of Israel."
+        },
+        {
+          "ref": "Hebrews 7:14 (KJV)",
+          "text": "For it is evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood."
+        },
+        {
+          "ref": "Revelation 5:5 (KJV)",
+          "text": "And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof."
+        }
+      ],
+      "videos": [
+        { "title": "Open Sky", "url": "https://example.com/video/4" }
+      ],
+      "songs": [
+        { "title": "Breath of Blue", "url": "https://example.com/song/4" }
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "tribe": "Dan",
+    "month": "Month 5",
+    "title": "Discernment and Wisdom",
+    "text": "I seek God's wisdom above all else. I ask for understanding, and He gives generously without finding fault. I weigh every decision in prayer, testing everything against His Word. With the mind of Christ, I discern what is good, right, and true.",
+    "audioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/5dan/5dans_blessing.mp3",
+    "maleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/5dan/5male.mp3",
+    "maleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/5dan/5male.json",
+    "femaleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/5dan/5female.mp3",
+    "femaleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/5dan/5female.json",
+    "inspiration": {
+      "scriptures": [
+        {
+          "ref": "Genesis 49:13 (KJV)",
+          "text": "Zebulun shall dwell at the haven of the sea; and he shall be for an haven of ships; and his border shall be unto Zidon."
+        },
+        {
+          "ref": "Deuteronomy 33:18-19 (KJV)",
+          "text": "And of Zebulun he said, Rejoice, Zebulun, in thy going out; and, Issachar, in thy tents. They shall call the people unto the mountain; there they shall offer sacrifices of righteousness: for they shall suck of the abundance of the seas, and of treasures hid in the sand."
+        },
+        {
+          "ref": "Psalm 107:23-24 (KJV)",
+          "text": "They that go down to the sea in ships, that do business in great waters; These see the works of the Lord, and his wonders in the deep."
+        },
+        {
+          "ref": "Matthew 5:14 (KJV)",
+          "text": "Ye are the light of the world. A city that is set on an hill cannot be hid."
+        }
+      ],
+      "videos": [
+        { "title": "Moving Waters", "url": "https://example.com/video/5" }
+      ],
+      "songs": [
+        { "title": "Flow", "url": "https://example.com/song/5" }
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "tribe": "Naphtali",
+    "month": "Month 6",
+    "title": "Freedom and Joy",
+    "text": "I walk in the freedom Christ has won for me. I am not bound by fear or shame; His Spirit gives me liberty. I embrace the joy set before me, running with endurance and delighting in His ways. My soul is satisfied as with the richest of foods.",
+    "audioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/6naphtali/6naphtalis_blessing.mp3",
+    "maleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/6naphtali/6%20male.mp3",
+    "maleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/6naphtali/6male.json",
+    "femaleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/6naphtali/6female.mp3",
+    "femaleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/6naphtali/6female.json",
+    "inspiration": {
+      "scriptures": [
+        {
+          "ref": "Genesis 49:14-15 (KJV)",
+          "text": "Issachar is a strong ass couching down between two burdens: And he saw that rest was good, and the land that it was pleasant; and bowed his shoulder to bear, and became a servant unto tribute."
+        },
+        {
+          "ref": "1 Chronicles 12:32 (KJV)",
+          "text": "And of the children of Issachar, which were men that had understanding of the times, to know what Israel ought to do; the heads of them were two hundred; and all their brethren were at their commandment."
+        },
+        {
+          "ref": "Matthew 11:28-30 (KJV)",
+          "text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest. Take my yoke upon you, and learn of me; for I am meek and lowly in heart: and ye shall find rest unto your souls. For my yoke is easy, and my burden is light."
+        },
+        {
+          "ref": "Psalm 46:10 (KJV)",
+          "text": "Be still, and know that I am God: I will be exalted among the heathen, I will be exalted in the earth."
+        }
+      ],
+      "videos": [
+        { "title": "Summer Rise", "url": "https://example.com/video/6" }
+      ],
+      "songs": [
+        { "title": "Warm Days", "url": "https://example.com/song/6" }
+      ]
+    }
+  },
+  {
+    "id": "7",
+    "tribe": "Gad",
+    "month": "Month 7",
+    "title": "Victory Over Adversity",
+    "text": "No weapon formed against me shall prosper. I overcome evil with good, standing firm in the full armor of God. Though attacks come, I am more than a conqueror through Him who loves me. Victory is mine in Christ Jesus.",
+    "audioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/7gad/7gads_blessing.mp3",
+    "maleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/7gad/7male.mp3",
+    "maleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/7gad/7male.json",
+    "femaleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/7gad/7female.mp3",
+    "femaleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/7gad/7female.json",
+    "inspiration": {
+      "scriptures": [
+        {
+          "ref": "Genesis 49:16-18 (KJV)",
+          "text": "Dan shall judge his people, as one of the tribes of Israel. Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward. I have waited for thy salvation, O Lord."
+        },
+        {
+          "ref": "Deuteronomy 33:22 (KJV)",
+          "text": "And of Dan he said, Dan is a lion's whelp: he shall leap from Bashan."
+        },
+        {
+          "ref": "Micah 6:8 (KJV)",
+          "text": "He hath shewed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God?"
+        },
+        {
+          "ref": "John 7:24 (KJV)",
+          "text": "Judge not according to the appearance, but judge righteous judgment."
+        }
+      ],
+      "videos": [
+        { "title": "Gathering Light", "url": "https://example.com/video/7" }
+      ],
+      "songs": [
+        { "title": "Together", "url": "https://example.com/song/7" }
+      ]
+    }
+  },
+  {
+    "id": "8",
+    "tribe": "Asher",
+    "month": "Month 8",
+    "title": "Abundance in Gratitude",
+    "text": "I give thanks in all circumstances, for this is God's will for me. He supplies all my needs according to His riches in glory. I live with open hands, sharing generously, and I find contentment in every season. My life overflows with His blessing.",
+    "audioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/8asher/8ashers_blessing.mp3",
+    "maleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/8asher/8male.mp3",
+    "maleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/8asher/8male.json",
+    "femaleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/8asher/8female.mp3",
+    "femaleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/8asher/8female.json",
+    "inspiration": {
+      "scriptures": [
+        {
+          "ref": "Genesis 49:19 (KJV)",
+          "text": "Gad, a troop shall overcome him: but he shall overcome at the last."
+        },
+        {
+          "ref": "Deuteronomy 33:20-21 (KJV)",
+          "text": "And of Gad he said, Blessed be he that enlargeth Gad: he dwelleth as a lion, and teareth the arm with the crown of the head. And he provided the first part for himself, because there, in a portion of the lawgiver, was he seated; and he came with the heads of the people, he executed the justice of the Lord, and his judgments with Israel."
+        },
+        {
+          "ref": "Romans 8:37 (KJV)",
+          "text": "Nay, in all these things we are more than conquerors through him that loved us."
+        },
+        {
+          "ref": "2 Corinthians 4:8-9 (KJV)",
+          "text": "We are troubled on every side, yet not distressed; we are perplexed, but not in despair; Persecuted, but not forsaken; cast down, but not destroyed;"
+        }
+      ],
+      "videos": [
+        { "title": "Grateful Heart", "url": "https://example.com/video/8" }
+      ],
+      "songs": [
+        { "title": "Give Thanks", "url": "https://example.com/song/8" }
+      ]
+    }
+  },
+  {
+    "id": "9",
+    "tribe": "Issachar",
+    "month": "Month 9",
+    "title": "Diligence and Rest",
+    "text": "I work diligently with the strength God provides, yet I also enter His rest. I labor in faith, knowing that my efforts are not in vain. I balance toil with trust, refusing to strive in my own power. In quietness and confidence is my strength.",
+    "audioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/9issachar/9issachars_blessing.mp3",
+    "maleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/9issachar/9male.mp3",
+    "maleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/9issachar/9male.json",
+    "femaleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/9issachar/9female.mp3",
+    "femaleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/9issachar/9female.json",
+    "inspiration": {
+      "scriptures": [
+        {
+          "ref": "Genesis 49:20 (KJV)",
+          "text": "Out of Asher his bread shall be fat, and he shall yield royal dainties."
+        },
+        {
+          "ref": "Deuteronomy 33:24-25 (KJV)",
+          "text": "And of Asher he said, Let Asher be blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil. Thy shoes shall be iron and brass; and as thy days, so shall thy strength be."
+        },
+        {
+          "ref": "Psalm 1:3 (KJV)",
+          "text": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper."
+        },
+        {
+          "ref": "John 10:10 (KJV)",
+          "text": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly."
+        }
+      ],
+      "videos": [
+        { "title": "Still Path", "url": "https://example.com/video/9" }
+      ],
+      "songs": [
+        { "title": "Quiet Steps", "url": "https://example.com/song/9" }
+      ]
+    }
+  },
+  {
+    "id": "10",
+    "tribe": "Zebulun",
+    "month": "Month 10",
+    "title": "Outreach and Generosity",
+    "text": "I go into the world as a light, sharing the hope I have in Christ. I welcome others, extend hospitality, and give freely of what I have received. My life is a harbor for the weary, pointing them to the Savior.",
+    "maleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/10zebulun/10male.mp3",
+    "maleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/10zebulun/10male.json",
+    "femaleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/10zebulun/10female.mp3",
+    "femaleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/10zebulun/10female.json",
+    "inspiration": {
+      "scriptures": [
+        {
+          "ref": "Genesis 49:21 (KJV)",
+          "text": "Naphtali is a hind let loose: he giveth goodly words."
+        },
+        {
+          "ref": "Deuteronomy 33:23 (KJV)",
+          "text": "And of Naphtali he said, O Naphtali, satisfied with favour, and full with the blessing of the Lord: possess thou the west and the south."
+        },
+        {
+          "ref": "Proverbs 18:21 (KJV)",
+          "text": "Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof."
+        },
+        {
+          "ref": "Colossians 4:6 (KJV)",
+          "text": "Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man."
+        }
+      ],
+      "videos": [
+        { "title": "Season Change", "url": "https://example.com/video/10" }
+      ],
+      "songs": [
+        { "title": "Turning", "url": "https://example.com/song/10" }
+      ]
+    }
+  },
+  {
+    "id": "11",
+    "tribe": "Joseph",
+    "month": "Month 11",
+    "title": "Fruitfulness in Hardship",
+    "text": "Even in trials, I bear fruit that lasts. God turns what was meant for evil into good. I forgive those who hurt me, and I trust His redemptive plan. My life multiplies blessing to others, just as He intended.",
+    "maleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/11joseph/11male.mp3",
+    "maleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/11joseph/11male.json",
+    "femaleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/11joseph/11female.mp3",
+    "femaleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/11joseph/11female.json",
+    "inspiration": {
+      "scriptures": [
+        {
+          "ref": "Genesis 49:22-26 (KJV)",
+          "text": "Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall: The archers have sorely grieved him, and shot at him, and hated him: But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from thence is the shepherd, the stone of Israel:) Even by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb: The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren."
+        },
+        {
+          "ref": "Deuteronomy 33:13-17 (KJV)",
+          "text": "And of Joseph he said, Blessed of the Lord be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath, And for the precious fruits brought forth by the sun, and for the precious things put forth by the moon, And for the chief things of the ancient mountains, and for the precious things of the lasting hills, And for the precious things of the earth and fulness thereof, and for the good will of him that dwelt in the bush: let the blessing come upon the head of Joseph, and upon the top of the head of him that was separated from his brethren. His glory is like the firstling of his bullock, and his horns are like the horns of unicorns: with them he shall push the people together to the ends of the earth: and they are the ten thousands of Ephraim, and they are the thousands of Manasseh."
+        },
+        {
+          "ref": "John 15:5 (KJV)",
+          "text": "I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing."
+        },
+        {
+          "ref": "James 1:12 (KJV)",
+          "text": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him."
+        }
+      ],
+      "videos": [
+        { "title": "Shelter", "url": "https://example.com/video/11" }
+      ],
+      "songs": [
+        { "title": "Guarded", "url": "https://example.com/song/11" }
+      ]
+    }
+  },
+  {
+    "id": "12",
+    "tribe": "Benjamin",
+    "month": "Month 12",
+    "title": "Boldness in Faith",
+    "text": "I am bold as a lion, not shrinking back in fear. I proclaim the gospel with courage, standing firm for truth. God has not given me a spirit of timidity but of power, love, and self-discipline. I advance His kingdom fearlessly.",
+    "maleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/12benjamin/12male.mp3",
+    "maleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/12benjamin/12male.json",
+    "femaleAudioUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/12benjamin/12female.mp3",
+    "femaleJsonUrl": "https://pub-28a96ef5d275416ea27ae14f6e84c132.r2.dev/official/audio/tribes/12benjamin/12female.json",
+    "inspiration": {
+      "scriptures": [
+        {
+          "ref": "Genesis 49:27 (KJV)",
+          "text": "Benjamin shall ravin as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil."
+        },
+        {
+          "ref": "Deuteronomy 33:12 (KJV)",
+          "text": "And of Benjamin he said, The beloved of the Lord shall dwell in safety by him; and the Lord shall cover him all the day long, and he shall dwell between his shoulders."
+        },
+        {
+          "ref": "Psalm 27:1 (KJV)",
+          "text": "The Lord is my light and my salvation; whom shall I fear? the Lord is the strength of my life; of whom shall I be afraid?"
+        },
+        {
+          "ref": "Romans 8:15 (KJV)",
+          "text": "For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father."
+        }
+      ],
+      "videos": [
+        { "title": "Night Light", "url": "https://example.com/video/12" }
+      ],
+      "songs": [
+        { "title": "Star Song", "url": "https://example.com/song/12" }
+      ]
+    }
+  }
+]
